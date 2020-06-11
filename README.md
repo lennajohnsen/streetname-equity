@@ -18,17 +18,9 @@ While it was not possible within the scope of the semester to build and deploy f
 **HOW AN INSTAGRAM FILTER WORKS:**
 An Instagram filter allows users to overlay other images and 3D objects onto their photos and videos. While for Instagram Posts, this primarily involves editing the images by adjusting the colors, brightness, contrast etc. similar to Photoshop, Instagram has developed more robust and interactive editing capabilities for the Stories platform that involve text, stickers, animations, sounds, and 3D effects.  
 
-![Source](https://i2.wp.com/insta-go.it/wp-content/uploads/2018/10/InstagramStories-blog-MAIN810x440.jpg?fit=810%2C440&ssl=1&resize=1200%2C900)
-
-
 Instagram Stories are photos and videos that disappear after 24 hours on the platform, as opposed to Posts that stay on a user's profile. Because of this, stories are often more lighthearted and personal in nature as they are windows into users’ everyday lives. They appear along the top of the Instagram interface, as depicted at left. To watch a Story, a user taps on one of the circles. Stories are broadcasted in a reel format, meaning that users can watch all the stories of all the people they follow in one go. 
 
 One recent trend on Instagram is the "What ____ are you?" Filter, some examples of which can be seen below. These range in topic from "What dog breed are you?" to "Which Pokemon are you?" to "What NYC subway line are you?." A clear extension of Millennial’s obsession with Buzzfeed quizzes ([example](https://www.buzzfeed.com/ashleyperez/what-city-should-you-actually-live-in) here) that purport to glean insight into one's personality and future from a series of multiple choice questions, Instagram filters of this format are incredibly popular. 
-
-
-![](https://lh3.googleusercontent.com/PpjoV6S7rdhiPmhpJjNs91GU4MKZc5_ZY7CMwVSWZeKfSjtlbXOXfZ5S8Cece01vYBi1qIO5WHY_AErR5vIq5ewkI1WL1AVtkNi8QkypVSWhvsz0IUEhtu31fOXeTRhgmJQDCsB0mKA)
-![](https://lh6.googleusercontent.com/_I6clIFRzB4ce_fpzMYciaCD3cLR9YO5cvfIe78oUG1g7HLKwbEVIbqqScL2xC4cRsXhLw71l9FwxNtkeLwXHluj6JJSS8QN5wmjOQXE6-6qtv9um1XN4ExaWxo1Ub0ttkzfA62sND4)
-
 
 Users find these Filters principally through other user’s Stories, meaning they are extremely viral in nature. For example, if one of the accounts I follow posts a video using the "What dog breed are you?" Filter shown above, I would use the link in the upper left to try it on my own camera. If I were to then share the footage of me discovering that I am, in fact, a shiba inu at heart to my Story, my followers could then do the same, which could in turn inspire *their* followers and so on. 
 
