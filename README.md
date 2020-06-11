@@ -1,7 +1,6 @@
 # Instagram Filter
 
 ![](https://paper-attachments.dropbox.com/s_5E72747BDD6A4708A6792180A6599E8E3946FD069C55D5AF2A898909AE635F26_1589214630197_mockup-01.png)
-![](https://paper-attachments.dropbox.com/s_5E72747BDD6A4708A6792180A6599E8E3946FD069C55D5AF2A898909AE635F26_1589214605938_mockup-02.png)
 
 
 **PROJECT DESCRIPTION:**
@@ -14,13 +13,6 @@ This document is intended to familiarize readers with Instagram Stories and Filt
 Because the primary audience of *Women Take the Streets* is students and teachers in Cambridge schools, we sought to utilize the popularity of social media platforms such as Instagram and Snapchat to develop an engagement tool that could be used outside of the classroom as well as by members of the broader Cambridge community. 
 
 While it was not possible within the scope of the semester to build and deploy filters for both Instagram and Snapchat, we acknowledge that a Snapchat filter would expand our audience to pre-teens as well as teenagers. We ultimately chose to develop an Instagram filter because of our own familiarity with the platform and its language, as well as its broader popularity with young adults and the existing presence on Instagram of both the Cambridge Historical Commission and the Women's Heritage Project.
-
-
-![](https://paper-attachments.dropbox.com/s_11F2E625E2B0B5695C36D6F45F8F6F3671F31C23074598B1E5ACAAA63EB88914_1585246703483_image.png)
-![](https://paper-attachments.dropbox.com/s_11F2E625E2B0B5695C36D6F45F8F6F3671F31C23074598B1E5ACAAA63EB88914_1585246789921_image.png)
-
-![](https://paper-attachments.dropbox.com/s_11F2E625E2B0B5695C36D6F45F8F6F3671F31C23074598B1E5ACAAA63EB88914_1585252024340_image.png)
-![](https://paper-attachments.dropbox.com/s_11F2E625E2B0B5695C36D6F45F8F6F3671F31C23074598B1E5ACAAA63EB88914_1585252076464_image.png)
 
 
 **HOW AN INSTAGRAM FILTER WORKS:**
